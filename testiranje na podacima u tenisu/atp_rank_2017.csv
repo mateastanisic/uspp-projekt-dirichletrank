@@ -1,0 +1,2001 @@
+rank;points;player
+1;10645;Rafael Nadal
+2;9605;Roger Federer
+3;5150;Grigor Dimitrov
+4;4610;Alexander Zverev
+5;4015;Dominic Thiem
+6;3805;Marin Cilic
+7;3775;David Goffin
+8;3165;Jack Sock
+9;3150;Stan Wawrinka
+10;2615;Pablo Carreno Busta
+11;2595;Juan Martin Del Potro
+12;2585;Novak Djokovic
+13;2535;Sam Querrey
+14;2480;Kevin Anderson
+15;2320;Jo Wilfried Tsonga
+16;2290;Andy Murray
+17;2265;John Isner
+18;2235;Lucas Pouille
+19;2095;Tomas Berdych
+20;2015;Roberto Bautista Agut
+21;2010;Nick Kyrgios
+22;1885;Kei Nishikori
+23;1845;Albert Ramos Vinolas
+24;1795;Milos Raonic
+25;1695;Gilles Muller
+26;1675;Diego Schwartzman
+27;1670;Fabio Fognini
+28;1635;Adrian Mannarino
+29;1440;Philipp Kohlschreiber
+30;1391;Damir Dzumhur
+31;1375;Richard Gasquet
+32;1370;Pablo Cuevas
+33;1302;Mischa Zverev
+34;1298;Filip Krajinovic
+35;1295;Fernando Verdasco
+36;1295;Feliciano Lopez
+37;1290;David Ferrer
+38;1231;Alexandr Dolgopolov
+39;1229;Andrey Rublev
+40;1219;Yuichi Sugita
+41;1155;Benoit Paire
+42;1130;Robin Haase
+43;1095;Paolo Lorenzi
+44;1055;Steve Johnson
+45;1030;Karen Khachanov
+46;1015;Gael Monfils
+47;1010;Ryan Harrison
+48;1001;Borna Coric
+49;993;Aljaz Bedene
+50;992;Kyle Edmund
+51;981;Denis Shapovalov
+52;909;Leonardo Mayer
+53;898;Jan Lennard Struff
+54;890;Jared Donaldson
+55;880;Viktor Troicki
+56;864;Denis Istomin
+57;855;Julien Benneteau
+58;850;Joao Sousa
+59;844;Hyeon Chung
+60;826;Nikoloz Basilashvili
+61;817;Peter Gojowczyk
+62;816;Donald Young
+63;815;Jiri Vesely
+64;774;Guido Pella
+65;772;Daniil Medvedev
+66;768;Horacio Zeballos
+67;755;Dudi Sela
+68;755;Federico Delbonis
+69;718;Florian Mayer
+70;714;Guillermo Garcia Lopez
+71;704;Yen Hsun Lu
+72;704;Evgeny Donskoy
+73;701;Thomas Fabbiano
+74;693;Mikhail Kukushkin
+75;687;Dusan Lajovic
+76;667;Steve Darcis
+77;665;Jeremy Chardy
+78;662;Frances Tiafoe
+79;660;Ivo Karlovic
+80;655;Matthew Ebden
+81;652;Pierre Hugues Herbert
+82;651;Cedrik Marcel Stebe
+83;648;Victor Estrella Burgos
+84;633;Mikhail Youzhny
+85;630;Marton Fucsovics
+86;623;Tennys Sandgren
+87;616;Andreas Seppi
+88;616;Radu Albot
+89;615;Stefanos Tsitsipas
+90;612;Laslo Djere
+91;610;Gilles Simon
+92;608;Maximilian Marterer
+93;605;Lukas Lacko
+94;601;Marius Copil
+95;593;Jordan Thompson
+96;590;Nicolas Kicker
+97;580;Malek Jaziri
+98;579;Taro Daniel
+99;574;Nicolas Jarry
+100;572;Gerald Melzer
+101;571;Rogerio Dutra Silva
+102;570;Blaz Kavcic
+103;564;Marcos Baghdatis
+104;561;Nicolas Mahut
+105;558;Taylor Fritz
+106;556;Janko Tipsarevic
+107;549;Roberto Carballes Baena
+108;546;Andrey Kuznetsov
+109;545;Vasek Pospisil
+110;543;Marco Cecchinato
+111;542;Bjorn Fratangelo
+112;541;Cameron Norrie
+113;531;Thomaz Bellucci
+114;519;Gastao Elias
+115;515;Alexander Bublik
+116;507;Sergiy Stakhovsky
+117;506;Henri Laaksonen
+118;503;Ruben Bemelmans
+119;499;Yannick Hanfmann
+120;498;Ernesto Escobedo
+121;484;Jerzy Janowicz
+122;482;Yuki Bhambri
+123;469;Dustin Brown
+124;469;Pedro Sousa
+125;468;Carlos Berlocq
+126;465;Adrian Menendez Maceiras
+127;465;Matteo Berrettini
+128;456;Thiago Monteiro
+129;436;Quentin Halys
+130;435;Tim Smyczek
+131;435;Oscar Otte
+132;433;Sebastian Ofner
+133;425;Stefano Travaglia
+134;423;Norbert Gombos
+135;420;Daniel Evans
+136;420;Yoshihito Nishioka
+137;418;Stefan Kozlov
+138;412;Egor Gerasimov
+139;405;Ramkumar Ramanathan
+140;404;Peter Polansky
+141;401;Ricardas Berankis
+142;399;Casper Ruud
+143;395;Bernard Tomic
+144;393;Martin Klizan
+145;391;Akira Santillan
+146;387;Renzo Olivo
+147;384;Elias Ymer
+148;380;Yannick Maden
+149;370;Mirza Basic
+150;363;Nicolas Almagro
+151;361;Tommy Paul
+152;357;Calvin Hemery 
+153;357;Nikola Milojevic
+154;353;Alessandro Giannessi
+155;352;Corentin Moutet
+156;351;Gleb Sakharov
+157;347;Tommy Robredo
+158;347;Kenny De Schepper
+159;344;Felix Auger Aliassime
+160;344;Andrej Martin
+161;344;Mathias Bourgue
+162;338;Jurgen Zopp
+163;335;Jozef Kovalik
+164;327;Tatsuma Ito
+165;326;John Millman
+166;325;Go Soeda
+167;318;Attila Balazs
+168;315;Joao Domingues
+169;313;Liam Broady
+170;311;Soonwoo Kwon
+171;311;Uladzimir Ignatik
+172;308;Luca Vanni
+173;305;Simone Bolelli
+174;304;Aldin Setkic
+175;301;Darian King
+176;301;Denis Kudla
+177;299;Michael Mmoh
+178;299;Mackenzie Mcdonald
+179;298;Marcel Granollers
+180;297;Marcelo Arevalo
+181;294;Arthur De Greef
+182;291;Ricardo Ojeda Lara
+183;291;Carlos Taberner
+184;287;Matthias Bachinger
+185;285;Facundo Bagnis
+186;280;Alexey Vatutin
+187;279;Filip Peliwo
+188;274;Mitchell Krueger
+189;271;Jurgen Melzer
+190;270;Benjamin Bonzi
+191;269;Vincent Millot
+192;269;Alex Bolt
+193;269;Viktor Galovic
+194;266;Ze Zhang
+195;265;Guido Andreozzi
+196;264;Dmitry Popko
+197;262;Evan King
+198;262;Brayden Schnur
+199;260;Illya Marchenko
+200;260;Kamil Majchrzak
+201;258;Ernests Gulbis
+202;257;Kevin King
+203;256;Noah Rubin
+204;256;Adam Pavlasek
+205;254;Lukas Rosol
+206;254;Salvatore Caruso
+207;253;Vaclav Safranek
+208;248;Blaz Rola
+209;246;Miomir Kecmanovic
+210;245;Alex De Minaur
+211;245;Thanasi Kokkinakis
+212;245;Goncalo Oliveira
+213;243;Stefano Napolitano
+214;242;Bradley Klahn
+215;240;Pedja Krstin
+216;238;Duckhee Lee
+217;237;Lorenzo Sonego
+218;236;Mohamed Safwat
+219;235;John Patrick Smith
+220;235;Marco Trungelliti
+221;234;Yasutaka Uchiyama
+222;234;Guilherme Clezar
+223;232;Dennis Novak
+224;230;Santiago Giraldo
+225;230;Andrea Arnaboldi
+226;228;Reilly Opelka
+227;227;Ilya Ivashka
+228;227;Jaume Munar
+229;227;Zdenek Kolar
+230;224;Dennis Novikov
+231;223;Stephane Robert
+232;223;Tallon Griekspoor
+233;222;Tobias Kamke
+234;222;Aleksandr Nedovyesov
+235;221;Hugo Dellien
+236;220;Teymuraz Gabashvili
+237;220;Hubert Hurkacz
+238;219;Jason Jung
+239;218;Joao Monteiro
+240;216;Christian Harrison
+241;215;Nicola Kuhn
+242;215;Daniel Altmaier
+243;214;Di Wu
+244;214;Karim Mohamed Maamoun 
+245;209;Sam Groth
+246;206;Paul Henri Mathieu
+247;206;Tomislav Brkic
+248;205;Tommy Haas
+249;204;Danilo Petrovic
+250;203;Federico Gaio
+251;201;Joao Souza
+252;199;Prajnesh Gunneswaran
+253;199;Javier Marti
+254;198;Lorenzo Giustino
+255;197;Alexander Sarkissian
+256;196;Julien Cagnina
+257;196;David Guez
+258;195;Pedro Martinez
+259;194;Andrea Collarini
+260;194;Marek Jaloviec
+261;192;Matteo Donati
+262;192;Kimmer Coppejans
+263;191;Max Purcell
+264;191;Dayne Kelly
+265;191;Yusuke Takahashi
+266;189;Zhe Li
+267;188;Lloyd Harris
+268;186;Konstantin Kravchuk
+269;186;Austin Krajicek
+270;186;Mats Moraing
+271;186;Laurynas Grigelis
+272;186;Cem Ilkel
+273;185;Omar Jasika
+274;185;Dominik Koepfer
+275;184;Michael Linzer
+276;183;Joris De Loore
+277;183;Facundo Arguello
+278;181;Blake Mott
+279;178;Jay Clarke
+280;173;Federico Coria
+281;172;Edan Leshem
+282;172;Brydan Klein
+283;172;Matteo Viola
+284;171;Jeremy Jahn
+285;170;Daniel Munoz De La Nava
+286;168;Daniel Elahi Galan
+287;168;Marcos Giron
+288;167;Jan Choinski
+289;167;Geoffrey Blancaneaux
+290;166;Andrew Whittington
+291;165;Pedro Cachin
+292;165;Youssef Hossam
+293;163;Roberto Quiroz
+294;163;Bernabe Zapata Miralles
+295;161;Tsung Hua Yang
+296;161;Yannick Mertens
+297;160;Steven Diez
+298;160;Ivan Nedelko
+299;158;Christian Garin
+300;158;Maverick Banes
+301;157;Yibing Wu
+302;156;Antoine Hoang
+303;155;Ante Pavic
+304;155;Rubin Statham
+305;155;Marsel Ilhan
+306;154;Nino Serdarusic
+307;153;Franko Skugor
+308;151;Tristan Lamasine
+309;151;Roberto Ortega Olmedo
+310;150;Alexandre Muller
+311;149;Daniel Brands
+312;149;Filip Horansky
+313;149;Bradley Mousley
+314;149;Markus Eriksson
+315;149;Frederico Ferreira Silva
+316;149;Ivan Gakhov
+317;145;Ti Chen
+318;143;Joao Pedro Sorgi
+319;143;Hernan Casanova
+320;141;Inigo Cervantes
+321;141;Sumit Nagal
+322;141;Marc Polmans
+323;141;Alessandro Bega
+324;140;Sebastian Fanselow
+325;139;Daniel Masur
+326;139;Lucas Miedler
+327;138;Gianluigi Quinzi
+328;137;Ivan Dodig
+329;137;Enrique Lopez Perez
+330;136;Tim Puetz
+331;135;Daniel Nguyen
+332;135;Raymond Sarmiento
+333;135;Axel Michon
+334;134;Jason Kubler
+335;134;Zhizhen Zhang
+336;134;Riccardo Bellotti
+337;133;Andrea Basso
+338;133;Christian Lindell
+339;132;Christopher Eubanks
+340;132;Constant Lestienne
+341;132;Christopher O'connell
+342;130;Miljan Zekic
+343;129;Jan Satral
+344;129;Marc Giner
+345;128;Rajeev Ram
+346;127;Radek Stepanek
+347;127;Maxime Hamou
+348;127;Jose Hernandez Fernandez
+349;126;Evgeny Karlovskiy
+350;126;Hiroki Moriya
+351;125;Christopher Heyman
+352;124;Yosuke Watanuki
+353;124;Facundo Mena
+354;123;Daniel Dutra Da Silva
+355;122;N.Sriram Balaji
+356;122;Carlos Boluda Purkiss
+357;120;Edward Corrie
+358;120;Petr Michnev
+359;119;Alexandar Lazov
+360;119;Kaichi Uchida
+361;118;Frank Dancevic
+362;117;Yannick Jankovits
+363;116;Daniel Gimeno Traver
+364;116;James Mcgee
+365;116;Shuichi Sekiguchi
+366;115;Dzmitry Zhyrmont
+367;114;Thiemo De Bakker
+368;114;Alejandro Gonzalez
+369;114;Juan Ignacio Londero
+370;114;Ugo Humbert
+371;113;Alexander Ward
+372;112;Nicolaas Scholtz
+373;112;Juan Pablo Ficovich
+374;111;Hiroyasu Ehara
+375;111;Shintaro Imai
+376;111;Sam Barry
+377;111;Bruno Santanna
+378;109;Yannick Vandenbulcke
+379;109;Jared Hiltzik
+380;108;Sora Fukuda
+381;108;Dimitar Kuzmanov
+382;108;Andrea Pellegrino
+383;108;Maxime Janvier
+384;107;Sanjar Fayziev
+385;106;Scott Griekspoor
+386;106;Albano Olivetti
+387;106;Gerard Granollers
+388;106;Lenny Hampel
+389;105;Maximo Gonzalez
+390;105;Carlos Gomez Herrera
+391;105;Martin Cuevas
+392;105;Vladyslav Manafov
+393;104;Enzo Couacaud
+394;104;Marc Sieber
+395;104;Adelchi Virgili
+396;103;Fabien Reboul
+397;103;Sergio Gutierrez Ferrol
+398;102;Juan Ignacio Galarza
+399;101;Patricio Heras
+400;101;Lucas Catarina
+401;100;Alejandro Falla
+402;100;Marco Chiudinelli
+403;100;Mario Vilella Martinez
+404;99;Kento Takeuchi
+405;98;Maximilian Neuchrist
+406;98;Elliot Benchetrit
+407;97;Marinko Matosevic
+408;96;David Pichler
+409;96;Viktor Durasovic
+410;95;Eduard Esteve Lobato
+411;95;Botic Van De Zandschulp
+412;95;Hugo Grenier
+413;93;Lloyd Glasspool
+414;93;Juan Pablo Paz
+415;92;Jc Aragone
+416;92;Mikael Ymer
+417;92;Gianluca Mager
+418;90;Pol Toledo Bague
+419;90;Clement Geens
+420;90;Antoine Escoffier
+421;89;Dennis Nevolo
+422;88;Yaraslav Shyla
+423;88;Gianni Mina
+424;88;Liam Caruana
+425;88;Sadio Doumbia
+426;88;Michal Konecny
+427;87;Ruben Ramirez Hidalgo
+428;87;Cristian Rodriguez
+429;87;Sasi Kumar Mukund
+430;87;Filippo Baldi
+431;86;Boy Westerhof
+432;86;Gonzalo Lama
+433;86;Marko Tepavac
+434;86;Mate Delic
+435;85;Sekou Bangoura
+436;84;Riccardo Bonadio
+437;84;Thomas Brechemier
+438;84;Takanyi Garanganga
+439;84;Juan Pablo Varillas
+440;84;Pablo Vivero Gonzalez
+441;84;Fabrizio Ornago
+442;83;Robin Kern
+443;83;Yannik Reuter
+444;83;Alexis Musialek
+445;83;Samuel Bensoussan
+446;82;Guillermo Olaso
+447;82;Pawel Cias
+448;82;Jules Okala
+449;82;Altug Celikbilek
+450;81;Andreas Haider Maurer
+451;81;Oriol Roca Batalla
+452;81;Baptiste Crepatte
+453;81;Benjamin Lock
+454;80;Alejandro Davidovich Fokina
+455;80;Yan Bai
+456;80;Pedro Sakamoto
+457;80;Lorenzo Frigerio
+458;80;Alessandro Petrone
+459;79;Nils Langer
+460;79;Mariano Kestelboim
+461;79;Maxime Chazal
+462;78;Agustin Velotti
+463;78;Dragos Dima
+464;78;Jan Mertl
+465;77;Michal Przysiezny
+466;77;Evgeny Tyurnev
+467;77;Ryan Shane
+468;77;Gregoire Jacq
+469;76;Corentin Denolly
+470;76;Takuto Niki
+471;75;Gonzalo Escobar
+472;75;Ivan Endara
+473;75;Pascal Brunner
+474;75;David Perez Sanz
+475;75;Chuhan Wang
+476;75;Maxime Tabatruong
+477;73;Tom Farquharson
+478;73;Jonathan Eysseric
+479;73;Wishaya Trongcharoenchaikul
+480;73;Tomas Papik
+481;72;Dmitry Tursunov
+482;72;Aleksandar Vukic
+483;72;Remi Boutillier
+484;72;Niels Desein
+485;72;Peter Kobelt
+486;72;Fred Gil
+487;72;Marco Bortolotti
+488;71;Edoardo Eremin
+489;71;Andres Artunedo Martinavarro
+490;71;Tomas Lipovsek Puches
+491;71;Fajing Sun
+492;71;Jordi Samper Montana
+493;70;Jurij Rodionov
+494;70;Andrew Harris
+495;70;Johan Tatlot
+496;70;Alex Molcan
+497;70;Laurent Lokoli
+498;70;Genaro Alberto Olivieri
+499;68;Adrian Bodmer
+500;68;Elmar Ejupovic
+501;67;Adrian Ungur
+502;67;Cheong Eui Kim
+503;67;Felipe Mantilla
+504;67;Igor Smilansky
+505;66;Vit Kopriva
+506;66;Thomas Statzberger
+507;65;Marcus Willis
+508;65;Jonathan Mridha
+509;65;Vishnu Vardhan
+510;65;Peter Nagy
+511;65;Jonas Merckx
+512;65;Franco Agamenone
+513;65;Cristian Carli
+514;64;Samuel Monette
+515;64;Artem Smirnov
+516;62;Benjamin Becker
+517;62;Julian Lenz
+518;62;Luke Saville
+519;62;Gijs Brouwer
+520;62;Moez Echargui
+521;61;Yunseong Chung
+522;61;Nam Hoang Ly
+523;60;Lamine Ouahab
+524;60;Sidharth Rawat
+525;60;Adrien Bossel
+526;60;Lukas Klein
+527;60;Harry Bourchier
+528;59;Pavel Kotov
+529;59;Mick Lescure
+530;59;Miguel Semmler
+531;58;Marvin Netuschil
+532;58;Makoto Ochi
+533;58;Temur Ismailov
+534;58;Denis Yevseyev
+535;57;Roberto Cid Subervi
+536;57;Tung Lin Wu
+537;57;Jonathan Kanar
+538;56;Thai Son Kwiatkowski
+539;56;Joao Menezes
+540;56;Igor Sijsling
+541;56;Romain Barbosa
+542;56;Ljubomir Celebic
+543;56;Mor Bulis
+544;56;Danylo Kalenichenko
+545;56;Tobias Simon
+546;55;Denys Mylokostov
+547;55;Pascal Meis
+548;55;Davide Galoppini
+549;54;Pietro Rondoni
+550;54;Alexander Vasilenko
+551;54;Naoki Nakagawa
+552;54;Andrea Vavassori
+553;54;Nicolas Santos
+554;54;Robin Stanek
+555;53;Denys Molchanov
+556;53;Maciej Rajski
+557;53;Federico Zeballos
+558;53;Matias Franco Descotte
+559;52;Nuno Borges
+560;52;Luke Bambridge
+561;52;Eric Quigley
+562;52;Finn Tearney
+563;52;Jeroen Vanneste
+564;52;Peter Torebko
+565;52;Gianluca Di Nicola
+566;52;Jelle Sels
+567;52;Patrik Nema
+568;52;Niels Lootsma
+569;51;Matthew Barton
+570;51;Grega Zemlja
+571;51;Roman Safiullin
+572;51;Omar Giacalone
+573;51;Nicholas S. Hu
+574;51;Colin Van Beem
+575;50;Kevin Krawietz
+576;50;Leny Mitjana
+577;49;Jacob Grills
+578;49;Ronnie Schneider
+579;49;Alexander Kudryavtsev
+580;49;Martins Podzus
+581;49;David Vega Hernandez
+582;49;Tomislav Jotovski
+583;48;Andrey Golubev
+584;48;Yann Marti
+585;48;Juan Sebastian Gomez
+586;48;Hong Chung
+587;48;Andre Ghem
+588;48;N Vijay Sundar Prashanth
+589;48;Ulises Blanch
+590;48;Evan Furness
+591;48;Vladimir Ivanov
+592;48;Alexios Halebian
+593;47;Sami Reinwein
+594;47;Pietro Licciardi
+595;47;Oscar Jose Gutierrez
+596;47;Evan Song
+597;47;Karunuday Singh
+598;46;Orlando Luz
+599;46;Maxime Authom
+600;46;Rudolf Molleker
+601;46;Yan Sabanin
+602;46;Ben Patael
+603;45;Alex Rybakov
+604;45;Nicolae Frunza
+605;45;Yecong He
+606;45;Renta Tokuda
+607;44;William Blumberg
+608;44;Deiton Baughman
+609;44;Sho Katayama
+610;44;Andriej Kapas
+611;44;Nikola Cacic
+612;44;Matias Zukas
+613;44;Gibril Diarra
+614;44;Raul Brancaccio
+615;43;Saketh Myneni
+616;43;Gavin Van Peperzeel
+617;43;Kuan Yi Lee
+618;43;Jurabek Karimov
+619;43;Xin Gao
+620;43;Alexander Zhurbin
+621;43;Gregoire Barrere
+622;42;Alejandro Gomez
+623;42;Rafael Matos
+624;41;Emilio Gomez
+625;41;Christopher Diaz Figueroa
+626;40;Zsombor Piros
+627;40;Benjamin Hassan
+628;40;Manuel Sanchez
+629;40;Caio Zampieri
+630;40;Ronald Slobodchikov
+631;40;Roberto Marcora
+632;40;Laslo Urrutia Fuentes
+633;40;Vasile Antonescu
+634;40;Dekel Bar
+635;39;George Von Massow
+636;39;Francesco Vilardo
+637;38;Thiago Seyboth Wild
+638;38;Hugo Nys
+639;38;Matthias Haim
+640;38;Franco Emanuel Egea
+641;38;Peter Bothwell
+642;38;Ilya Vasilyev
+643;37;Eduardo Struvay
+644;37;Jonas Luetjen
+645;37;Nathan Pasha
+646;37;Fernando Romboli
+647;37;Jonathan Gray
+648;37;Marek Gengel
+649;36;Bastian Malla
+650;36;Dante Gennaro
+651;36;Paul Woerner
+652;36;Alexander Igoshin
+653;36;Billy Harris
+654;36;Olexiy Kolisnyk
+655;35;Yuki Mochizuki
+656;35;Kristijan Mesaros
+657;35;Cheng Yu Yu
+658;35;Walter Trusendi
+659;35;Milan Drinic
+660;35;Javier Barranco Cosano
+661;34;Jeffrey John Wolf
+662;34;Gustav Hansson
+663;34;Young Seok Kim
+664;34;Juan Manuel Benitez Chavarriaga
+665;34;Andre Gaspar Murta
+666;34;Louis Wessels
+667;34;Cristobal Saavedra Corvalan
+668;34;Haadin Salim Bava
+669;34;Alejandro Tabilo
+670;34;Yanais Laurent
+671;34;Anis Ghorbel
+672;33;Patrick Kypson
+673;33;Blake Ellis
+674;33;Miliaan Niesten
+675;33;Marat Deviatiarov
+676;33;Raphael Baltensperger
+677;33;Florent Diep
+678;33;Shane Vinsant
+679;33;Markos Kalovelonis
+680;32;Fabiano De Paula
+681;32;Marvin Moeller
+682;32;Borna Gojo
+683;32;Jaroslav Pospisil
+684;32;Ryan James Storrie
+685;32;Yuya Kibi
+686;32;Anil Yuksel
+687;32;Filippo Leonardi
+688;32;David Jorda Sanchis
+689;32;David Poljak
+690;31;Henry Craig
+691;31;Richard Gabb
+692;31;Fred Simonsson
+693;31;Riccardo Balzerani
+694;31;Aryan Goveas
+695;31;Wilson Leite
+696;31;Lukas Ollert
+697;30;Oliver Golding
+698;30;Wil Spencer
+699;30;Juan Lizariturry
+700;30;Daniiar Duldaev
+701;30;Marcelo Zormann
+702;30;Antonio Massara
+703;30;Antoine Bellier
+704;30;Jaume Pla Malfeito
+705;29;Harri Heliovaara
+706;29;Marcel Felder
+707;29;Alexei Popyrin
+708;29;Frederik Nielsen
+709;29;Gian Marco Moroni
+710;29;Claudio Fortuna
+711;29;Roman Khassanov
+712;29;Kristian Lozan
+713;29;Dominik Boehler
+713;29;Nerman Fatic
+715;29;Christian Hirschmueller
+716;29;Neil Pauffley
+717;29;Yurii Dzhavakian
+718;29;Erik Crepaldi
+719;28;Ruan Roelofse
+720;28;Martin Redlicki
+721;28;Amine Ahouda
+722;28;Marcelo Tomas Barrios Vera
+723;28;Alexandar Lazarov
+724;28;Adam El Mihdawy
+725;28;Julian Ocleppo
+726;28;Michal Dembek
+727;28;Hunter Callahan
+728;28;Masato Shiga
+729;28;Christoph Negritu
+730;27;Karue Sell
+731;27;Reda El Amrani
+732;27;Mikael Torpegaard
+733;27;Luca Margaroli
+734;27;Michiel De Krom
+735;27;Jumpei Yamasaki
+736;27;Jacopo Stefanini
+737;27;Manuel Guinard
+738;27;Volodoymyr Uzhylovskyi
+739;26;Benjamin Mitchell
+740;26;Carlos Salamanca
+741;26;Or Ram Harel
+742;26;Adam Chadaj
+743;26;Vitaly Kozyukov
+744;26;Jea Moon Lee
+745;26;Philip Bester
+746;26;Artur Shakhnubaryan
+747;26;Jordan Correia
+748;26;Marc Andrea Huesler
+749;26;Kirill Kivattsev
+750;26;Cameron Silverman
+751;26;Santiago Fa Rodriguez Taverna
+752;26;Jorge Montero
+753;26;Issam Haitham Taweel
+754;25;Andre Begemann
+755;25;Stephan Fransen
+756;25;Aslan Karatsev
+757;25;Kaito Uesugi
+758;25;Arjun Kadhe
+759;25;Jaime Fermosell Delgado
+760;24;Pere Riba
+761;24;Collin Altamirano
+762;24;Tae Woo Lee
+763;24;Carl Soderlund
+764;24;Anton Zaitcev
+765;24;Mauricio Echazu
+766;24;Kevin Griekspoor
+767;24;Petru Alexandru Luncanu
+768;24;Giovanni Fonio
+769;24;Vadym Ursu
+770;24;Ken Onishi
+771;24;Omar Salman
+772;24;Juan Carlos Saez
+773;23;Jose Pereira
+774;23;Pruchya Isaro
+775;23;Sam Riffice
+776;23;Seong Chan Hong
+777;23;Julien Dubail
+778;23;Shalva Dzhanashia
+779;23;Maciej Smola
+780;23;Mikhail Fufygin
+781;23;Denis Matsukevich
+782;23;Igor Marcondes
+783;23;Oleg Khotkov
+784;22;Patrik Rikl
+785;22;Yshai Oliel
+786;22;Jeremy Beale
+787;22;Timur Khabibulin
+788;22;Camilo Ugo Carabelli
+789;22;Julian Onken
+790;22;Viktor Filipenko
+791;22;Duje Kekez
+792;22;Domagoj Biljesko
+793;22;Sebastien Boltz
+794;21;Yusuke Watanuki
+795;21;Aziz Dougaz
+796;21;Sebastian Prechtel
+797;21;Bogdan Borza
+798;21;Dominik Kellovsky
+799;21;Bernardo Saraiva
+800;21;Gonzalo Villanueva
+801;21;Jose Fco. Vidal Azorin
+802;20;Giovanni Lapentti
+803;20;Nikola Mektic
+804;20;Felipe Martinez Sarrasague
+805;20;Christopher Rungkat
+806;20;Antal Van Der Duim
+807;20;Alvaro Lopez San Martin
+808;20;Zihao Xia
+809;20;Alexander Erler
+810;20;Benjamin Sigouin
+811;20;Petr Nouza
+812;20;Patrik Brydolf
+813;20;Timur Kiyamov
+814;20;Manuel Pena Lopez
+815;20;Ryusei Makiguchi
+816;20;Rigele Te
+817;20;Gabriel Petit
+818;20;Dejan Katic
+819;20;Ricardo Rodriguez   Pace
+820;20;Nicola Ghedin
+821;20;Bogdan Bobrov
+822;20;Nicolo Turchetti
+823;20;Florian Fallert
+824;20;Mikhail Korovin
+825;20;Sergio Martos Gornes
+826;20;Raleigh Smith
+827;20;Nuno Deus
+828;19;Ryan Haviland
+829;19;Min Kyu Song
+830;19;Tal Goldengoren
+831;19;Nik Razborsek
+832;19;Tom Kocevar Desman
+833;19;Daniel Appelgren
+833;19;Germain Gigounon
+835;19;Rrezart Cungu
+836;19;Lucas Gomez
+837;19;Jake Delaney
+838;19;Jaime Pulgar Garcia
+839;19;Alessandro Luisi
+840;19;Ricardo Hocevar
+841;18;Mikhail Elgin
+842;18;Tristan Meraut
+842;18;James Ward
+844;18;Jimmy Wang
+845;18;Victor Baluda
+846;18;Sebastian Korda
+847;18;Evan Zhu
+848;18;Mate Valkusz
+849;18;Bastian Trinker
+850;18;Piotr Matuszewski
+851;18;Denis Klok
+852;18;Thomas Fancutt
+852;18;Luca Gelhardt
+854;18;Albert Alcaraz Ivorra
+855;18;Ryota Tanuma
+856;18;Muhammet Haylaz
+857;18;Caio Silva
+858;17;Isak Arvidsson
+859;17;Jonny O'mara
+860;17;Luis Patino
+861;17;Tak Khunn Wang
+862;17;Marcin Gawron
+863;17;Pierre Faivre
+864;17;Maxim Ratniuk
+865;17;Matej Sabanov
+866;17;Thomas Setodji
+867;17;Maxime Pauwels
+868;17;Soichiro Moritani
+869;17;Fran Zvonimir Zgombic
+870;17;Jui Chen Hung
+871;16;Emil Reinberg
+872;16;David Souto
+873;16;Artem Dubrivnyy
+873;16;Adrian Obert
+875;16;Yuta Shimizu
+876;16;Sho Shimabukuro
+877;16;Maxime Tchoutakian
+878;16;James Marsalek
+879;16;Andre Miele
+880;16;Javier Pulgar Garcia
+881;16;Connor Farren
+882;16;Cing Yang Meng
+883;16;Sarp Agabigun
+884;16;Louis Chaix
+885;16;Sem Verbeek
+886;16;Francesco Ferrari
+887;16;Daniel Nolan
+888;16;Adrian Andrzejczuk
+889;16;Alberto Romero De Avila Senise
+890;15;Skander Mansouri
+891;15;Strong Kirchheimer
+892;15;Bogdan Ionut Apostol
+893;15;Francis Casey Alcantara
+894;15;Matej Vocel
+895;15;Juan Ignacio Ameal
+896;15;Johannes Haerteis
+897;15;Yuichi Ito
+898;15;Francisco Cabral
+899;15;James Frawley
+900;15;Winston Lin
+901;14;Seong Gook Oh
+902;14;Harrison Adams
+903;14;Brandon Holt
+904;14;Tom Fawcett
+905;14;Mikelis Libietis
+906;14;Mazen Osama
+907;14;Luke Johnson
+908;14;Lukas Ruepke
+909;14;Wilfredo Gonzalez
+910;14;Peter Heller
+911;14;Sherif Sabry
+912;14;Hong Kit Wong
+913;14;Vladimir Polyakov
+914;14;Jose Olivares
+915;14;Peter Goldsteiner
+916;14;Oleksandr Bielinskyi
+917;14;Gabor Borsos
+918;14;Michal Schmid
+919;14;Alon Elia
+920;14;Francois Arthur Vibert
+921;13;Ryan Nijboer
+922;13;Laurent Rochette
+923;13;Alexis Gautier
+924;13;Luca Giacomini
+925;13;Romain Jouan
+926;13;Scott Puodziunas
+927;13;Simon Carr
+928;13;John Mcnally
+929;13;Karl Friberg
+930;13;Clement Larriere
+931;13;Facundo Juarez
+932;13;Sergey Betov
+933;13;Chan Yeong Oh
+934;13;Filip Duda
+935;13;Dane Propoggia
+936;13;Pavel Krainik
+937;13;Dragos Nicolae Madaras
+938;13;Johan Nikles
+939;13;John Lamble
+940;13;Thales Turini
+941;12;Mate Pavic
+942;12;Jeffrey Schorsch
+943;12;Fernando Bogajo
+944;12;Soren Hess Olesen
+945;12;Kirill Dmitriev
+946;12;Lennert Van Der Linden
+947;12;Ryan Peniston
+948;12;Vitaliy Sachko
+949;12;Dmitry Mnushkin
+950;12;Mirko Cutuli
+951;12;Gabriel Donev
+951;12;Chien Hsun Lo
+953;12;Aron Hiltzik
+954;12;Eric Johnson
+955;12;Marc Fornell Mestres
+956;12;Felipe Meligeni Rodrigues Alves
+957;12;Federico Moreno
+958;12;Tim Van Terheijden
+959;12;Loic Perret
+960;12;Mircea Alexandru Jecan
+961;12;Ivan Davydov
+962;11;Julian Cash
+962;11;Takao Suzuki
+964;11;Logan Smith
+965;11;Jae Hwan Kim
+966;11;Finn Bass
+967;11;Khumoyun Sultanov
+968;11;Ilija Vucic
+969;11;Rhyne Williams
+970;11;Isaiah Strode
+971;11;Jorge Panta
+972;11;Kenneth Raisma
+973;11;Michael Geerts
+973;11;Franjo Raspudic
+975;11;Dominic Weidinger
+976;11;Michael Zhu
+977;11;Simone Roncalli
+978;11;Giorgio Ricca
+979;11;Enrico Dalla Valle
+980;11;Adria Mas Mascolo
+981;11;Nick Chappell
+982;11;Aaron Cortes Alcaraz
+983;11;Joshua Paris
+984;11;Jakob Sude
+985;11;Hugo Voljacques
+986;10;James Duckworth
+987;10;Joy Vigani
+988;10;Guillermo Duran
+989;10;Julian Zlobinsky
+990;10;Riccardo Ghedin
+991;10;Juraj Masar
+992;10;Yong Kyu Lim
+993;10;Ezekiel Clark
+994;10;Tyler Lu
+995;10;Keegan Smith
+996;10;Tom Jomby
+997;10;Sergey Fomin
+998;10;Jolan Cailleau
+999;10;Alen Avidzba
+1000;10;Andrew Watson
+1001;10;Dalwinder Singh
+1002;10;Jayesh Pungliya
+1003;10;Ioannis Stergiou
+1004;10;Mike Urbanija
+1005;10;Vullnet Tashi
+1006;10;Theo Fournerie
+1006;10;Carlos Eduardo Severino
+1008;10;Petr Hajek
+1009;10;Mats Rosenkranz
+1010;10;Eduardo Dischinger
+1011;10;Marco Miceli
+1012;10;Marc Dijkhuizen
+1013;10;Ronan Joncour
+1014;10;Sergi Perez Contri
+1015;10;Saida'lo Saidkarimov
+1016;10;Mateusz Terczynski
+1017;10;Quim Sorni Chavarria
+1018;10;Santiago Maresca
+1019;10;Daniil Zarichanskyy
+1020;9;Lukas Mugevicius
+1021;9;Pavel Filin
+1022;9;Guy Orly Iradukunda
+1023;9;Gabi Adrian Boitan
+1024;9;Tomas Martin Etcheverry
+1025;9;Gengo Kikuchi
+1026;9;Su Hao Zhong
+1027;9;Gianni Ross
+1028;9;Richard Muzaev
+1029;9;Yu  Hsiang Chiu
+1029;9;Hugo Daubias
+1031;9;Alexis Klegou
+1032;9;David Volfson
+1033;9;Vladyslav Orlov
+1034;9;Tomas Liska
+1035;9;Hugo Largo
+1036;9;Tyler Mercier
+1037;9;Michel Vernier
+1038;9;George Tsivadze
+1039;9;Guy Den Heijer
+1040;9;Fernando Yamacita
+1041;9;Andrey Chepelev
+1042;9;Louis Tessa
+1043;9;Oleg Prihodko
+1044;8;Matija Pecotic
+1045;8;Jules Marie
+1046;8;Amir Weintraub
+1047;8;Alexander Ritschard
+1048;8;Zizou Bergs
+1048;8;Michail Pervolarakis
+1050;8;Haru Inoue
+1050;8;Chun Hun Wong
+1052;8;Florian Lakat
+1053;8;Pavel Tsoy
+1054;8;Bart Van Den Berg
+1055;8;Arthur Rinderknech
+1056;8;Daniel Cukierman
+1057;8;Hady Habib
+1058;8;Luis David Martinez
+1059;8;Diego Hidalgo
+1060;8;Vasko Mladenov
+1061;8;Michael Vrbensky
+1062;8;Nicolas Alberto Arreche
+1063;8;Matthieu Roy 
+1063;8;Kacper Zuk
+1065;8;Calum Puttergill
+1066;8;Marcos Giraldi Requena
+1067;8;Jonas Trinker
+1068;8;Frederik Press
+1069;8;Rio Noguchi
+1070;8;Goran Markovic
+1071;8;Corrado Summaria
+1072;8;Bastian Wagner
+1073;8;Mikalai Haliak
+1074;8;Orel Ovil
+1075;8;Issei Okamura
+1076;7;Martin Joyce
+1076;7;Hans Podlipnik Castillo
+1078;7;Nicolas Alvarez
+1078;7;Patrik Fabian
+1078;7;Harshana Godamanna
+1081;7;Sergio Luis Hernandez Ramirez
+1082;7;Emil Ruusuvuori
+1083;7;Elliott Orkin
+1084;7;Greg Jones
+1085;7;Yu Chang
+1086;7;Geronimo Espin Busleiman
+1087;7;Jie Cui
+1087;7;Miki Jankovic
+1089;7;Ewan Moore
+1090;7;Dan Added
+1091;7;Alexander Day
+1092;7;Alexander Lebedyn
+1092;7;Johann Willems
+1094;7;Alexander Lobkov
+1095;7;Siddharth Vishwakarma
+1095;7;Antonio Zucca
+1097;7;Yuri Syromolotov Netrebin
+1098;7;Ranjeet Virali Murugesan
+1099;7;Federico Maccari
+1099;7;Simeon Rossier
+1101;7;Karol Drzewiecki
+1102;7;Patrik Niklas Salminen
+1102;7;Nicolas Xiviller
+1104;7;Dusty H. Boyer
+1105;7;Matvey Khomentovskiy
+1106;7;Esteban  Bruna
+1107;7;Mohit Mayur Jayaprakash
+1108;7;Boris Arias
+1109;7;Jordan Hasson
+1109;7;Sang Woo Noh
+1111;7;Paco Climent Gregori
+1111;7;Ignacio Monzon
+1113;7;Kelsey Stevenson
+1114;7;Jacopo Berrettini
+1114;7;Andrew Ruppli
+1116;7;Shahar Elbaz
+1117;7;Romain Bauvy
+1118;7;Kazuma Kawachi
+1118;7;Alejo Vilaro
+1120;7;Pavel Nejedly
+1121;7;Ondrej Krstev
+1122;7;Darko Jandric
+1123;7;Vadim Alekseenko
+1124;6;Nicolas Alvarez Varona
+1124;6;Sebastian Baez
+1124;6;Brian Baker
+1124;6;Trevor Allen Johnson
+1128;6;Tim Van Rijthoven
+1128;6;Jesse Witten
+1130;6;Min Hyeok Cho
+1131;6;Sven Lah
+1132;6;Aoran Wang
+1133;6;Grzegorz Panfil
+1134;6;Filip Bergevi
+1135;6;Andre Goransson
+1136;6;Marcelo Plaza
+1137;6;Michael Look
+1138;6;Pol Wattanakul
+1139;6;Ju Hae Moon
+1140;6;Filippo Borella
+1140;6;Tadeas Paroulek
+1140;6;Libor Salaba
+1143;6;Shinta Fujii
+1143;6;Darren K. Polkinghorne
+1145;6;Karim Hossam
+1146;6;Alexandre Tsuchiya
+1147;6;Naru Shirafuji
+1148;6;Junior A. Ore
+1149;6;David Szintai
+1150;6;Matteo De Vincentis
+1150;6;Stephan Gerritsen
+1150;6;Valentin Vacherot
+1153;6;Alexander Weis
+1154;6;Rishab Agarwal
+1154;6;Maxence Beauge
+1154;6;Bruno Mardones
+1157;6;Nathan Eshmade
+1158;6;Kittipong Wachiramanowong
+1159;6;Marek Semjan
+1160;6;Benjamin Pietri
+1161;6;Mirko Martinez
+1162;6;Goncalo Falcao
+1163;6;Andrea Guerrieri
+1163;6;Maksim Tikhomirov
+1165;6;Andrei Stefan Apostol
+1165;6;Mert Naci Turker
+1167;6;Luis Faria
+1168;6;Rhett Purcell
+1169;6;Gabriel Alejandro Hidalgo
+1170;6;Dimitriy Voronin
+1171;6;Rayane Roumane
+1172;6;Filipp Kekercheni
+1173;6;Toby Martin
+1174;5;Matwe Middelkoop
+1174;5;Antonio Sancic
+1174;5;Dmitry Surchenko
+1177;5;Andres Molteni
+1178;5;Jakub Paul
+1179;5;Tiago Lopes
+1180;5;Thibault Cancel
+1180;5;Gabriel Schmidt
+1182;5;Francisco Cerundolo
+1182;5;Sanam Singh
+1184;5;Anthony Jackie Tang
+1184;5;Matteo Tinelli
+1184;5;Jordan Ubiergo
+1184;5;Joran Vliegen
+1188;5;Manish Sureshkumar
+1189;5;Federico Iannaccone
+1190;5;Francesco Bessire
+1190;5;Benjamin Hannestad
+1190;5;Patrick Kaukovalta
+1190;5;Vladimir Korolev
+1190;5;Paul Monteban
+1190;5;Jae Min Seol
+1196;5;Gary Kushnirovich
+1196;5;Riley Smith
+1198;5;August Holmgren
+1198;5;Kevin Kaczynski
+1200;5;Alberto Cammarata
+1200;5;Teodor Dacian Craciun
+1200;5;Akram El Sallaly
+1200;5;Naoki Takeda
+1204;5;Nico Mertens
+1204;5;Shunrou Takeshima
+1206;5;Neven Krivokuca
+1207;5;Matteo Martineau
+1208;5;Farzin Danny Amiri
+1208;5;Valentin Guenther
+1208;5;Ivan Kosec
+1208;5;Suraj R Prabodh
+1208;5;Masaki Sasai
+1213;5;Conor Berg
+1213;5;Daniele Capecchi
+1213;5;Ivan Krivic
+1216;5;Tommaso Gabrieli
+1217;5;Edris Fetisleam
+1217;5;Kamil Gajewski
+1217;5;Calin Manda
+1217;5;Abdullah Maqdes
+1217;5;Eros Siringo
+1222;5;Alan Kohen
+1222;5;Giovani Samaha
+1224;5;Jurgen Briand
+1224;5;Skyler Butts
+1224;5;Joffrey De Schepper
+1224;5;Antoine Walch
+1228;5;Yuanfeng Li
+1229;5;Amaury Delmas
+1229;5;Davide Pontoglio
+1231;5;Koray Kirci
+1232;5;Pirmin Haenle
+1232;5;Mousheg Hovhannisyan
+1232;5;Szymon Walkow
+1235;5;Yasha Zemel
+1236;5;Riccardo Maiga
+1237;5;Aitor Sanz Llopis
+1238;5;Nathaniel Lammons
+1239;5;Franco Feitt
+1239;5;Aleksei Khomich
+1241;5;Yannai Barkai
+1242;5;Miguel Semedo
+1243;5;Tiago Cacao
+1244;4;Aliaksandr Bury
+1244;4;Raheel Manji
+1244;4;Govind Nanda
+1244;4;Samuel Shropshire
+1248;4;Rodrigo Arus
+1248;4;Aleksandre Bakshi
+1248;4;Alberto Colas Sanchez
+1248;4;Alban Meuffels
+1248;4;Marek Rehacek
+1248;4;Justin Roberts
+1254;4;Clement Tabur
+1255;4;Steven De Waard
+1256;4;Ku Keon Kang
+1256;4;Filip Veger
+1258;4;Mick Veldheer
+1259;4;Philipp Davydenko
+1260;4;Jonas Eriksson Ziverts
+1260;4;Mattias Siimar
+1260;4;Daniel Yoo
+1263;4;Jung Woong Na
+1264;4;Andrea Bolla
+1264;4;Andrea Grazioso
+1266;4;Constantin Bittoun Kouzmine
+1267;4;Nicholas Bybel
+1268;4;Adrian Oetzbach
+1269;4;Davide Della Tommasina
+1270;4;Mateo Nicolas Martinez
+1270;4;Hyun Woo Nam
+1270;4;Takashi Saito
+1270;4;Nicolas Uryson
+1270;4;Arthur Weber
+1275;4;Alafia Ayeni
+1275;4;Patrik Rosenholm
+1277;4;Alberto Barroso Campos
+1277;4;Luca Pancaldi
+1277;4;Colin Sinclair
+1280;4;Kristjan Tamm
+1281;4;Ram Kapach
+1281;4;Arturs Lazdins
+1281;4;Ruikai Wang
+1284;4;Maxence Broville
+1284;4;Congsup Congcar
+1284;4;Alexandru Vasile Manole
+1287;4;Dragos Constantin Ignat
+1288;4;Cengiz Aksu
+1288;4;Ivan Marrero Curbelo
+1288;4;Luca Prevosto
+1291;4;Joel Cannell
+1291;4;Shunsuke Wakita
+1293;4;Niki Kaliyanda Poonacha
+1294;4;Collin Johns
+1295;4;Kunal Anand
+1295;4;Farris Fathi Gosea
+1297;4;Jannis Kahlke
+1298;4;Darko Bojanovic
+1299;3;Carlos De La Pena
+1299;3;Spencer Papa
+1299;3;Quentin Robert
+1299;3;Jesse Timmermans
+1303;3;Jacob Dunbar
+1303;3;Alfredo Perez
+1305;3;Mark Chigaazira
+1305;3;Shinji Hazawa
+1305;3;Jan Hernych
+1305;3;Juan Martin
+1309;3;Marco Di Prima
+1309;3;Kaito Itsusaki
+1309;3;Filip Cristian Jianu
+1309;3;Ivan Liutarevich
+1313;3;Dae Hee Lee
+1313;3;Herbert Jody Maginley
+1313;3;Daniel Michalski
+1316;3;Mark Whitehouse
+1317;3;Ibuki Furuta
+1317;3;Evan Hoyt
+1317;3;Young Hoon Jeong
+1317;3;Katsuki Nagao
+1317;3;Giovanni Oradini
+1317;3;Mathieu Perchicot
+1317;3;Michael Quintero
+1324;3;Charles Broom
+1324;3;Francesco Forti
+1324;3;Alexandru Gozun
+1324;3;Juan Pablo Grassi Mazzuchi
+1324;3;Christopher Morin Kougoucheff
+1324;3;Jordi Munoz Abreu
+1324;3;Marko Osmakcic
+1324;3;Luigi Sorrentino
+1324;3;Ty Trombetta
+1324;3;Maxim Tybar
+1334;3;Jaimee Floyd Angele
+1334;3;Christopher G Haworth
+1334;3;Vincent Jaensch Mueller
+1334;3;Rafael Mazon Hernandez
+1334;3;Ken Onoda
+1334;3;Alexander Ovcharov
+1334;3;Dong Hak Sin
+1341;3;Luca Castelnuovo
+1341;3;Felix Corwin
+1341;3;Constant De La Bassetiere
+1341;3;Hugo Gaston
+1341;3;Zach Itzstein
+1341;3;Alex Knaff
+1341;3;Tao Mu
+1341;3;Masaki Osafune
+1341;3;Alen Rogic Hadzalic
+1350;3;Jenson Brooksby
+1350;3;S D Prajwal Dev
+1350;3;Vasil Kirkov
+1350;3;Alexander Knight
+1354;3;Sergio Barranco
+1354;3;Thomas Colautti
+1354;3;Liang Chi Huang
+1354;3;Kittirat Kerdlapee
+1354;3;Nikita Mashtakov
+1354;3;Vladislav Melnic
+1354;3;Victor Ouvrard
+1354;3;Alexandre Rotsaert
+1354;3;Niklas Schell
+1354;3;Dan Alexandru Tomescu
+1354;3;Ricardo Urzua Rivera
+1365;3;Petar Conkic
+1365;3;Tigre Hank
+1365;3;Connor Smith
+1365;3;Chandril Sood
+1365;3;Linh Giang Trinh
+1370;3;Remy Bertola
+1370;3;Edward Bourchier
+1370;3;Zhaoyi Cao
+1370;3;Victor Vlad Cornea
+1370;3;Alexandru Danes
+1370;3;Lance Pierre Du Toit
+1370;3;Linus Frost
+1370;3;Amit Gabreal
+1370;3;Pablo Irigaray Guarne
+1370;3;Vinayak Sharma Kaza
+1370;3;Vijayant Malik
+1370;3;Luka Pavlovic
+1370;3;Alessandro Ricci
+1370;3;Abhinav Sanjeev Shanmugam
+1384;3;Sean Hodkin
+1385;3;Scott Clayton
+1385;3;Tyler Hochwalt
+1385;3;Matthew Christopher Romios
+1388;3;Antonin Bolardt
+1388;3;Alejandro Mendoza
+1388;3;Maxime Mora
+1388;3;Daniel Rodrigues
+1388;3;Albert Roglan
+1388;3;Francesco Salviato
+1388;3;Vitalii Shcherba
+1388;3;Chukang Wang
+1396;3;Floris Van Den Brink
+1397;3;Gonzales Austin
+1397;3;Andres Gabriel Ciurletti
+1397;3;Tomas Gerini
+1397;3;Alastair Gray
+1397;3;Fermin Tenti
+1397;3;Lukas Vejvara
+1397;3;Bartosz Wojnar
+1404;3;Sagadat Ayap
+1404;3;Tejas Chaukulkar
+1404;3;Felipe Cunha Silva
+1404;3;Patrick Daciek
+1404;3;Masaya Kobayashi
+1404;3;Bernd Kossler
+1404;3;Alexander Merino
+1404;3;Milos Sekulic
+1412;3;Alex Blumenberg
+1412;3;David Agung Susanto
+1414;3;Lucas Bouquet
+1414;3;Jorge Hernando Ruano
+1414;3;Jirat Navasirisomboon
+1417;3;Milos Nikolic
+1418;3;Matthew Dellavedova
+1418;3;Wei De Lin
+1418;3;Eduardo Agustin Torre
+1421;3;Aaron Addison
+1421;3;Justin Barki
+1421;3;Franco Capalbo
+1421;3;Stanislav Poplavskyy
+1421;3;Gorazd Srbljak
+1426;3;Martin Beran
+1427;3;Alexis Canter
+1427;3;Anirudh Chandrasekar
+1427;3;Jakob Johansson Holm
+1430;3;Benjamin Dhoe
+1431;3;Mubarak Shannan Zayid
+1432;3;George Botezan
+1433;3;Aria Harajchi
+1434;2;Anton Matusevich
+1434;2;Jose Antonio Rodriguez Rodriguez
+1434;2;Josko Topic
+1434;2;Laurens Verboven
+1438;2;Alexandre Castanho Ribeiro
+1438;2;Axel Geller
+1438;2;Fitriadi M Rifqi
+1438;2;Jan Minar
+1438;2;Jan Poskocil
+1438;2;Charly Zick
+1444;2;Dimitar Grabul
+1444;2;Joshua Howard Tripp
+1444;2;Oliver Hudson
+1444;2;Osgar O'hoisin
+1444;2;Karan Rastogi
+1444;2;Nitin Kumar Sinha
+1450;2;Mert Alkaya
+1450;2;Geronimo Barrios
+1450;2;Hugo Di Feo
+1450;2;Martin Dimitrov
+1450;2;Menelaos Efstathiou
+1450;2;Dmitro Kamynin
+1450;2;Mateusz Kowalczyk
+1450;2;Abdulhamid Mubarak
+1450;2;Marco Neubau
+1450;2;Valentin Nourrissat
+1450;2;Koichi Sano
+1450;2;Chun Hsin Tseng
+1462;2;Tadas Babelis
+1462;2;Gianluca Bergomi
+1462;2;Simen Sunde Bratholm
+1462;2;William Bushamuka
+1462;2;Eric Caleguer
+1462;2;Pasquale De Giorgio
+1462;2;Sharmal Dissanayake
+1462;2;Lucas Gerch
+1462;2;Leon Hoeveler
+1462;2;Milen Ianakiev
+1462;2;Paul Jubb
+1462;2;Augusto Laranja
+1462;2;Hei Yin Andrew Li
+1462;2;Matej Maruscak
+1462;2;Marko Miladinovic
+1462;2;Anurag Nenwani
+1462;2;Christian Paul
+1462;2;Bogdan Pavel
+1462;2;Flemming Peters
+1462;2;Rowland Phillips
+1462;2;Lucas Poullain
+1462;2;Dusan Rajic
+1462;2;Frazier Rengifo
+1462;2;Horst Rieder
+1462;2;Elie Rousset
+1462;2;Leon Schutt
+1462;2;Stijn Slump
+1462;2;Matteo Trevisan
+1462;2;Fabian Van Der Lans
+1462;2;Keisuke Watanuki
+1462;2;Kai Wehnelt
+1493;2;Oliver Crawford
+1493;2;Jake Douglas
+1493;2;Gabriel Friedrich
+1493;2;Aliaksandr Liaonenka
+1493;2;Ji Hoon Son
+1498;2;Jose Daniel Bendeck
+1498;2;Federico Bertuccioli
+1498;2;Santiago Besada
+1498;2;Sergiu Ioan Bucur
+1498;2;Gabriel Decamps
+1498;2;Mitchell Frank
+1498;2;Jessy Kalambay
+1498;2;Mihail Khaldeev
+1498;2;Oh Hee Kwon
+1498;2;Ching Lam
+1498;2;Robin Lang
+1498;2;Kai Lemstra
+1498;2;Yuki Matsuo
+1498;2;Alexey Nesterov
+1498;2;Aron Pierce
+1498;2;Sidane Pontjodikromo
+1498;2;Tim Ruehl
+1498;2;Christian Samuelsson
+1498;2;Keivon Tabrizi
+1498;2;Luca George Tatomir
+1498;2;Duarte Vale
+1519;2;Soufiane El Mesbahi
+1519;2;Daniel Kopeinigg
+1519;2;Yvo Panak
+1519;2;Julius Tverijonas
+1523;2;Philip Bachmaier
+1523;2;Luciano Betella
+1523;2;David Damian Brna
+1523;2;Juan Pablo Canas Garcia
+1523;2;Kaya Gore
+1523;2;Eduard Guell Bartrina
+1523;2;Ivan Kalinin
+1523;2;Palaphoom Kovapitukted
+1523;2;Maxim Landa
+1523;2;Dominik Nazaruk
+1523;2;Kody Pearson
+1523;2;Aaro Pollanen
+1523;2;Giorgio Portaluri
+1523;2;Lucas Renard
+1523;2;Yuto Sakai
+1523;2;Adrian Sikora
+1523;2;Quinnton Vega
+1523;2;Robertas Vrzesinski
+1523;2;Jordi Walder
+1523;2;Huixin Wang
+1523;2;Henrik Wiersholm
+1544;2;Hugo Schott
+1545;2;Roman Blokhin
+1545;2;Yan Bondarevskiy
+1545;2;Filip Brtnicky
+1545;2;Washi Gervais
+1545;2;Nicholas Horton
+1545;2;Alejandro Hoyos
+1545;2;Samir Iftikhar
+1545;2;Niklas Johansson
+1545;2;Adil Kalyanpur
+1545;2;Shahbaaz Khan
+1545;2;Dylan Seong Kwan Kim
+1545;2;Louroi Martinez
+1545;2;Benard Bruno Nkomba
+1545;2;Aljaz Radinski
+1545;2;Mico Santiago
+1545;2;Tom Schonenberg
+1545;2;Nathan Seateun
+1545;2;Shonigmatjon Shofayziyev
+1545;2;Marvin Bernardo Spiering
+1545;2;Anthony Susanto
+1545;2;Rui Xuan Wang
+1545;2;Omer Yeshaya
+1545;2;Pak Long Yeung
+1568;2;Luis Britto
+1569;2;Paramveer Singh Bajwa
+1569;2;Andrea Borroni
+1569;2;Andres Fernandez Canovas
+1569;2;Levente Godry
+1569;2;Yu Hsiou Hsu
+1569;2;Alexander Jhun
+1569;2;Stamatis Kapiris
+1569;2;Ergi Kirkin
+1569;2;Alberto Lim
+1569;2;Rajko Mladenovic
+1569;2;Rayane Oumaouche
+1569;2;Vignesh Peranamallur
+1569;2;Ivan Sabanov
+1569;2;Roy Smith
+1569;2;Thibault Venturino
+1584;2;Lingxi Zhao
+1585;2;Andrew Carter
+1585;2;Daniel Mora
+1585;2;Juan Bautista Otegui
+1585;2;Leandro Serrano Sanz
+1585;2;Leonard Von Hindte
+1585;2;Brandon Walkin
+1585;2;Sheng Hao Zhou
+1592;2;Alexander Donski
+1592;2;Nikolay Kolobaev
+1592;2;Jeson Patrombon
+1592;2;Victor Poncelet
+1592;2;Hugo Pontico
+1592;2;Dhruv Sunish
+1598;2;Samy Grace
+1598;2;Ryota Kishi
+1600;2;Daniel Batista
+1601;2;Luis Diego Chavez Villalpando
+1601;2;Simon Navarro
+1601;2;Patrik Obal
+1601;2;Cesar Testoni
+1605;2;Aziz Ouakaa
+1606;2;Jonathan Chang
+1607;2;Sefa Suluoglu
+1608;1;Leonardo Aboian
+1608;1;Ammar Alhogbani
+1608;1;Philip Aplienz
+1608;1;Jose Antonio Arcos Del Valle
+1608;1;Ted Bachev
+1608;1;Florent Bax
+1608;1;Ayoub Benamar
+1608;1;Alberto Berbegal Moreno
+1608;1;Darius Florin Bragusi
+1608;1;Jacob Bullard
+1608;1;Samm Butler
+1608;1;Juan Felipe Castellanos
+1608;1;Louis Clark
+1608;1;Fabio Costa
+1608;1;Seppe Cuypers
+1608;1;Daniel Czepielewski
+1608;1;Gabriel Ciro Da Silva
+1608;1;Jack Davis
+1608;1;Julien De Cuyper
+1608;1;Arturo Dell'eva
+1608;1;Dorian Descloix
+1608;1;Anton Desyatnik
+1608;1;Miguel Diaz
+1608;1;Facundo Diaz Acosta
+1608;1;Younes El Aynaoui
+1608;1;Camilo Andres Erazo
+1608;1;Nicolas Ferrando
+1608;1;Stefan Fiacan
+1608;1;Jesse Flores
+1608;1;Valentin Florez
+1608;1;Sergi Fontcuberta
+1608;1;Marcus Fugate
+1608;1;Roberts Grinvalds
+1608;1;Tihomir Grozdanov
+1608;1;Daniel Grunberger
+1608;1;Tian Jia Guo
+1608;1;Shawn H. Hadavi
+1608;1;Mitchell Harper
+1608;1;Philip Henning
+1608;1;Jesse Huta Galung
+1608;1;Konstantinos Ilia
+1608;1;Juan Ignacio Iliev
+1608;1;Jarmere Jenkins
+1608;1;Jacob Kahoun
+1608;1;Mcclain Kessler
+1608;1;Majed Kilani
+1608;1;Ognian Kolev
+1608;1;Lukasz Kozielski
+1608;1;Boris Kozlov
+1608;1;Guillaume Laurent
+1608;1;Erroll Lawrence
+1608;1;Zhao Tai Li
+1608;1;Shao Fan Liu
+1608;1;Mike Loccisano
+1608;1;Piotr Lomacki
+1608;1;Juan Manuel Lopez
+1608;1;Tad Maclean
+1608;1;Mario Mansilla Diez
+1608;1;Jose Maria Martin De Oliva Carr
+1608;1;Euan Mcintosh
+1608;1;Joel Meda
+1608;1;Nicolas Mejia
+1608;1;Roberto Menendez
+1608;1;Irakli Metreveli
+1608;1;Siphosothando Montsi
+1608;1;Adam Moundir
+1608;1;David Mrazek
+1608;1;Phuong Van Nguyen
+1608;1;Christophe Nickels
+1608;1;Guillermo Nunez
+1608;1;Julien Obry
+1608;1;Jie Ming Pai
+1608;1;Zlatan Palazov
+1608;1;David Pel
+1608;1;Janis Podzus
+1608;1;Sergei Pogosian
+1608;1;Ivan Ponomarenko
+1608;1;Demian Raab
+1608;1;Arief Rahman
+1608;1;Arnaud Restifo
+1608;1;Razvan Sabau
+1608;1;Yair Sarouk
+1608;1;Alexander Sazankov
+1608;1;Mathieu Scaglia
+1608;1;Aaron Schmid
+1608;1;Denis Semenikhin
+1608;1;Ivan Sergeyev
+1608;1;Rishabh Sharda
+1608;1;Jia Hong Shen
+1608;1;Christian Sigsgaard
+1608;1;Austin Smith
+1608;1;Enzo Sommer
+1608;1;Krisjanis Stabins
+1608;1;Riccardo Stiglich
+1608;1;Dominik Suc
+1608;1;Tadas Tarasevicius
+1608;1;Yannick Thivant
+1608;1;Teeradon Tortrakul
+1608;1;Gabriel Tumasonis
+1608;1;Panu Virtanen
+1608;1;Yu Chang Wang
+1608;1;Robert Willekes Macdonald
+1608;1;Alec Witmeur
+1711;1;Alec Adamson
+1711;1;Jayson Amos
+1711;1;Pablo Andujar
+1711;1;Alexander Babanine
+1711;1;Marcell Bartakovics
+1711;1;Dominik Bartels
+1711;1;Manuel Bellutti
+1711;1;Andrea Bessire
+1711;1;Enrique Bogo
+1711;1;Casper Bonapart
+1711;1;Roman Boychuk
+1711;1;Alexander Brown
+1711;1;Gage Brymer
+1711;1;A.J. Catanzariti
+1711;1;Daniele Catini
+1711;1;Niccolo Catini
+1711;1;Loic Cloes
+1711;1;Razvan Marius Codescu
+1711;1;Francisco Comesana
+1711;1;Alexander Cozbinov
+1711;1;Lleyton Cronje
+1711;1;Paolo Dagnino
+1711;1;Pavle Daljev
+1711;1;Gaetan De Lovinfosse
+1711;1;Yasitha De Silva
+1711;1;Gabriel Diaz Freire
+1711;1;Bogdan Didenko
+1711;1;Kaloyan Dimitrov
+1711;1;Carlos Divar
+1711;1;Luciano Doria
+1711;1;Riaan Du Toit
+1711;1;Dane Dunlap
+1711;1;Julien Eon
+1711;1;Martin Fekiac
+1711;1;Alexandre Folie
+1711;1;Luc Fomba
+1711;1;Lorenzo Gagliardo
+1711;1;Sander Gille
+1711;1;Daniel Glancy
+1711;1;Marko Goles Babic
+1711;1;Ruben Gonzales
+1711;1;Damon Gooch
+1711;1;Nick Hardt
+1711;1;Mostafa Hatem
+1711;1;Cheng Peng Hsieh
+1711;1;Arklon Huertas Del Pino Cordova
+1711;1;Lauri Kiiski
+1711;1;Sang Yuop Kim
+1711;1;Woo Ram Kim
+1711;1;Siva Deep Kosaraju
+1711;1;Warren Kuhn
+1711;1;Daniel Lustig
+1711;1;Marcus Mansson
+1711;1;Wojciech Marek
+1711;1;Hleb Maslau
+1711;1;Toshihide Matsui
+1711;1;Fabio Mercuri
+1711;1;Jack Murray
+1711;1;David Norfeldt
+1711;1;David Pata
+1711;1;Anastasios Pavlis
+1711;1;Stylianos Perdikogiannis
+1711;1;Minhtuan Pham
+1711;1;Hugo Pierre
+1711;1;Alessandro Ragazzi
+1711;1;Robbie Ridout
+1711;1;Batyr Sapaev
+1711;1;Rene Schulte
+1711;1;Alexandre Sidorenko
+1711;1;Riccardo Sinicropi
+1711;1;Ming Chun Alan Sou
+1711;1;Tomas Stillman
+1711;1;Marton Szappanos
+1711;1;Daniel Tamir
+1711;1;Suthinan Tanthaseraneewat
+1711;1;Thiago Agustin Tirante
+1711;1;Luca Tomasetto
+1711;1;Moritz Trocker
+1711;1;Vincent Van Den Honert
+1711;1;Pol Vaquero Fernandez
+1711;1;Yannick Verwater
+1711;1;Francisco Vittar
+1711;1;Nenad Vladusic
+1711;1;Marcus Walters
+1711;1;Haitong Xia
+1711;1;Richard Yang
+1711;1;Arsenije Zlatanovic
+1798;1;Mohamed Abdel Aziz
+1798;1;Mohamed Aboulkassem
+1798;1;Ville Petteri Ahti
+1798;1;Iznaur Akhmaev
+1798;1;Tomas Almeida
+1798;1;Ivar Jose Aramburu Contreras
+1798;1;Franco David Aubone
+1798;1;Dmytro Badanov
+1798;1;Samuel Beddow
+1798;1;Martin Blasko
+1798;1;Antonio Campo
+1798;1;Jose Fernando Carvajal Torres
+1798;1;Tadiwa Chinamo
+1798;1;Jae Won Choi
+1798;1;Antoine Damiens
+1798;1;Bobbie De Goeijen
+1798;1;Carlo Donato
+1798;1;Bruno Luca Faletto Ureta
+1798;1;Anas Fattar
+1798;1;Jan Galka
+1798;1;Philippe Gelade
+1798;1;Lukas Greif
+1798;1;Niklas Guttau
+1798;1;Alex Hedman
+1798;1;Mats Hermans
+1798;1;Simohamed Hirs
+1798;1;Runhao Hua
+1798;1;Yuichiro Inui
+1798;1;Yuya Ito
+1798;1;Hendrik Jebens
+1798;1;Rimpei Kawakami
+1798;1;Daniil Klimov
+1798;1;Philipp Klimov
+1798;1;Bastien Kolly
+1798;1;Stanislav Korshunov
+1798;1;Sameer Kumar
+1798;1;Jack Mingjie Lin
+1798;1;Michele Longo
+1798;1;Jaycer Lyeons
+1798;1;Oscar Mancineiras Cornella
+1798;1;Alexander Mannapov
+1798;1;Michal Marko
+1798;1;Guido Marson
+1798;1;Yutaro Matsuzaki
+1798;1;Ricardo David Mayagoitia
+1798;1;Michal Mikula
+1798;1;Filippo Mora
+1798;1;Arvid Nordquist
+1798;1;Christian Oliveira
+1798;1;Guilherme Osorio
+1798;1;Jordan Parker
+1798;1;Changwei Peng
+1798;1;Faisal Qamar
+1798;1;Zhuoyang Qiu
+1798;1;Motvey Radionov
+1798;1;Strahinja Rakic
+1798;1;Gregor Ramskogler
+1798;1;Edoardo Sardella
+1798;1;Harrison Scott
+1798;1;Sebastian Serrano
+1798;1;Alexandros Skorilas
+1798;1;Henri Squire
+1798;1;Yunosuke Tanaka
+1798;1;Yuga Tashiro
+1798;1;Clay Thompson
+1798;1;Richard Torres
+1798;1;Petros Tsitsipas
+1798;1;Shi Hong Zeng
+1798;1;Alexander Zgirovsky
+1867;1;Jakob Aichhorn
+1867;1;Shaheed Alam
+1867;1;Abdulrahman Alawadhi
+1867;1;Alexey Aleshchev
+1867;1;David Argasinski
+1867;1;Simon Beaupain
+1867;1;Anvit Bendre
+1867;1;Nicolas Bianchi
+1867;1;Lorenzo Bocchi
+1867;1;Zhao Cai
+1867;1;Martin Facundo Carrizo
+1867;1;Robert Carter
+1867;1;Paul Cayre
+1867;1;Alessandro Ceppellini
+1867;1;Sathi Reddy Chirala
+1867;1;Antoine Cornut Chauvinc
+1867;1;Sergey Dorozhkin
+1867;1;Besir Durguti
+1867;1;Yanki Erel
+1867;1;Vladimir Filip
+1867;1;Anton Galkin
+1867;1;Maxim Geraskin
+1867;1;Delf Gohlke
+1867;1;Gaston Arturo Grimolizzi
+1867;1;Piotr Grynkowski
+1867;1;Yassine Idmbarek
+1867;1;Maciej Jablonski
+1867;1;Mehdi Jdi
+1867;1;Lev Kazakov
+1867;1;Aleksandar Kovacevic
+1867;1;Punnakrit Kritakara
+1867;1;Edoardo Lamberti
+1867;1;Antoine Leduc
+1867;1;Benjamin Loccisano
+1867;1;Adam Majchrowicz
+1867;1;Tomohiro Masabayashi
+1867;1;Aidan Mchugh
+1867;1;Francesco Moncagatto
+1867;1;David Nguyen
+1867;1;Thien Nguyen Hoang
+1867;1;Greg Polmans
+1867;1;Nino Portales
+1867;1;Yusuf Ebrahim Ahmed  Qaed
+1867;1;Adriano Quinti
+1867;1;Nicholas Reyes
+1867;1;Guillermo Rivera Aranguiz
+1867;1;Joshua Rose
+1867;1;Vazha Shubladze
+1867;1;Mateusz Smolicki
+1867;1;Chanchai Sookton Eng
+1867;1;Adam Thornton Brown
+1867;1;Joseph Imeh Ubon
+1867;1;Georg Winkler
+1867;1;Yahor Yatsyk
+1921;1;Victor Mugurel Anagnastopol
+1921;1;Antonio J. Ayala Hernandez
+1921;1;Giuliano Benedetti
+1921;1;Maikel Borg
+1921;1;Bruno Britez
+1921;1;Vlad Andrei Dancu
+1921;1;Dan Dowson
+1921;1;Maximiliano Estevez
+1921;1;Manfred Fellin
+1921;1;Mark Fynn
+1921;1;Robert Galloway
+1921;1;Xiao Gong
+1921;1;Josh Hagar
+1921;1;Samuel Hodor
+1921;1;Alex Hunt
+1921;1;Patcharapol Kawin
+1921;1;Phongsapak Kerdlaphee
+1921;1;Lucas Koelle
+1921;1;Tim Kopinski
+1921;1;Sandro Kopp
+1921;1;Kris Krawcewicz
+1921;1;Maksim Malyshev
+1921;1;Jonathan Morr
+1921;1;Thomas Otu
+1921;1;Daniel Rabas
+1921;1;Hunter Reese
+1921;1;Aditya Hari Sasongko
+1921;1;Rocco Savin
+1921;1;Leo Julien Sebaoun
+1921;1;Dominik Sproch
+1921;1;Agustin Suarez Gonzalez
+1921;1;Dhakshineswar Suresh
+1921;1;Luis Valero
+1921;1;Antun Vidak
+1921;1;Santiago Villarruel
+1921;1;Jose Von Hafe Perez
+1921;1;Yann Wojcik
+1921;1;Ivan Yatsuk
+1959;1;Nicolas Bacella
+1959;1;Vlad Andrei Dumitru
+1959;1;Scott Duncan
+1959;1;Martim Leote Prata
+1959;1;Stefan Micov
+1959;1;Matvey Minin
+1959;1;Juan Montes
+1959;1;Yuqing Ning
+1959;1;Kazuki Nishiwaki
+1959;1;Nebojsa Peric
+1959;1;Xi Qi
+1959;1;Franco Ribero
+1959;1;Riccardo Roberto
+1959;1;Olly Sadler
+1959;1;Philipp Schroll
+1959;1;Isaac Stoute
+1975;1;Alejandro Artunedo
+1975;1;Clifford Enosoregbe
+1975;1;Quentin Folliot
+1975;1;Imanol Lopez Morillo
+1975;1;Patrick Mayer
+1975;1;Eduardo Ribeiro
+1975;1;Christoffer Solberg
+1975;1;Barlaham Zuluaga Gaviria
+1983;1;Gianluca Acquaroli
+1983;1;Sylvester Emmanuel
+1983;1;Arata Onozawa
+1983;1;Li Wie Tan
+1983;1;Lucas Vuradin
+1983;1;Hao Wu
+1983;1;Mousa Shanan Zayed
+1990;1;Vasisht Cheruku
+1990;1;David Fleming
+1990;1;David Juras
+1990;1;Bart Stevens
+1994;1;Gregorio Cordonnier
+1994;1;Chengze Lyu
+1994;1;Keisuke Numajiri
+1997;1;Andrej Glvac
+1997;1;Victor Nunez
+1999;1;Isa Mammetgulyyev
+2000;1;Giovanni Rizzuti
